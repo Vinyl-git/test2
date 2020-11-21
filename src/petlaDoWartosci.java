@@ -10,7 +10,7 @@ public class petlaDoWartosci {
 
 
         for (int x=1; x<=userNumber; x++) {
-            if (x%2 !=1) {
+            if (x%2!=1) {
                 System.out.println(x);
             }
         }
